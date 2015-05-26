@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+h1 {
+	color:red;	
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+p {
+	color: #FF5722;
+	font-family: arial;
+	padding: 15px;
+}
+
+li {
+	float: left;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+#abc {
+	font-size: 50pt;
+}
+#home {
+	background-color: white;
+}
+
+#home h1{
+	padding: 15px;
+}
+a {
+	padding-left: 15px;
+	color: black;
+	width:20%;
+}
+a:hover, a:active {
+	background-color: none;
+	color: white;
+}
+body { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#con {
+	background-color: white;
+	padding: 15px;
+}
+#guide {
+	width: 100%;
+	text-align: center;
+	font-size: 60pt;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#guide a:hover {
+
+	color: red;
+}
+#navBar {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	background-color: grey;
+	width: 100%;
+}
+img {
+	float: right;
+}
