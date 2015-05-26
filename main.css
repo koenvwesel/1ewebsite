@@ -31,12 +31,12 @@ ul {
 #home h1{
 	padding: 15px;
 }
-a {
+#navBar a {
 	padding-left: 15px;
 	color: black;
 	width:20%;
 }
-a:hover, a:active {
+#navBar a:hover,#navBar a:active {
 	background-color: none;
 	color: white;
 }
